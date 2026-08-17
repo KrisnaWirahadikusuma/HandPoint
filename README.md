@@ -10,7 +10,7 @@
 > **A real-time computer vision virtual mouse built with Python, OpenCV, MediaPipe, and PyAutoGUI.**
 
 **HandPoint** transforms your standard webcam into a touchless controller. By tracking hand landmarks in real-time, it seamlessly maps physical hand gestures to operating system mouse events—allowing you to navigate, click, and scroll without touching a physical device.
-
+ 
 ---
 
 ## 🌟 Key Highlights
@@ -44,7 +44,7 @@ HandPoint processes incoming frame buffers sequentially through a multi-stage pi
                                             └──────────────────────┘
 
 ```
-
+ 
 ## 🎮 Gesture Interaction Guide
 
 | Action | Hand Gesture | Mechanism |
