@@ -63,7 +63,7 @@ Ensure you have Python 3.8+ installed on your system.
 2. Installation
 Clone the repository and install the dependencies:
 ``` 
-Bash
+
 ## Clone the repository
 ```
 git clone [https://github.com/KrisnaWirahadikusuma/HandPoint.git](https://github.com/KrisnaWirahadikusuma/HandPoint.git)
@@ -119,9 +119,7 @@ LEFT_OPEN_THR = 0.42      # Distance threshold to release Left Click
 INTENT_HOLD_TIME = 0.12   # Duration (seconds) gesture must be held to register
 CLICK_COOLDOWN = 0.35     # Delay (seconds) before next click can trigger
 ```
-📂 Project Structure
-Plaintext
-HandPoint/
+
 ## 📂 Project Structure
 
 ```text
