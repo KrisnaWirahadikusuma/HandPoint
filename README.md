@@ -107,7 +107,7 @@ You can fine-tune tracking performance and gesture sensitivity by editing the to
 ```python
 # --- Camera System ---
 CAM_INDEX = 0             # Camera device index (0 for built-in, 1+ for external)
-
+ 
 # --- Motion Control ---
 smoothing_factor = 3.0    # Higher = Smoother/Slower; Lower = Faster/Snappier
 frame_reduction_x = 60    # Horizontal bounding margins for full-screen reach
