@@ -102,7 +102,6 @@ Note on Startup Calibration: Upon launching, hold your hand steady in front of t
 ## ⚙️ Configuration & Parameter Tuning
 You can fine-tune tracking performance and gesture sensitivity by editing the top parameters in HandPoint.py:
 
-## ⚙️ Configuration & Parameter Tuning
 
 ```python
 # --- Camera System ---
