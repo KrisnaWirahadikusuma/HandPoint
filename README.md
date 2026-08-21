@@ -130,6 +130,6 @@ HandPoint/
 ```
 🧯 Troubleshooting
 📄 License & Author
-Developed with ❤️ by Krisna Wirahadikusuma
+Developed by Krisna Wirahadikusuma & Orion (Local AI Agent)
 
 GitHub: @KrisnaWirahadikusuma
