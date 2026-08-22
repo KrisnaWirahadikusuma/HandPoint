@@ -55,6 +55,7 @@ HandPoint processes incoming frame buffers sequentially through a multi-stage pi
 | **Scroll Mode** | Open Palm (All 5 Fingers Up) | Tracks vertical palm movement to send scroll commands. |
 | **Exit** | Press `ESC` | Halts execution loops and safely releases system video handles. |
 
+
 # ⚡ Quick Start
 ``` 
 1. Prerequisites
